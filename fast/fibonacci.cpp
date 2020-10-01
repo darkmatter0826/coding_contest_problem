@@ -5,10 +5,6 @@
 #include <ext/pb_ds/detail/standard_policies.hpp>
 
 
-/* 
-*    coder :: ATUL_PANDEY_2608
-*        >>> INDIA <<<
-*/
 using namespace std;
 using namespace __gnu_pbds;
 
@@ -41,7 +37,8 @@ const int maxx = 2e5+26;
 
 
 
-
+// time complexity of this program is logn 
+// fast but  little complicated /....
 
 
 int Main(){
